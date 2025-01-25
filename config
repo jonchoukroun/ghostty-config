@@ -1,0 +1,6 @@
+fullscreen = true
+macos-non-native-fullscreen = visible-menu
+theme = rose-pine
+cursor-style = block
+cursor-invert-fg-bg = true
+cursor-style-blink = true
