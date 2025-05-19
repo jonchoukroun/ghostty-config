@@ -1,8 +1,9 @@
-fullscreen = true
-macos-non-native-fullscreen = visible-menu
-window-padding-x = 5
-window-padding-y = 5
-theme = rose-pine
 cursor-style = block
 cursor-invert-fg-bg = true
 cursor-style-blink = true
+font-size = 14
+fullscreen = true
+macos-non-native-fullscreen = visible-menu
+theme = Hurtado
+window-padding-x = 5
+window-padding-y = 5
